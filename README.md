@@ -1,4 +1,5 @@
 **Fundamentos DDJ 2023**
+
 Repositório para documentar as atividades desenvolvidas na disciplina de Fundamentos e Ética no Jornalismo de Dados, com Luiz Toledo e Natalia Mazotte com fins didáticos como requisito para a formação em Jornalismo de Dados, 1º trimestre. 
 
 Foram realizadas entrevistas em base de dados em planilhas csv, procv, tabela dinâmica, SQL, pedidos de LAI. 
