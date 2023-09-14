@@ -5,4 +5,4 @@ Foram realizadas entrevistas em base de dados em planilhas csv, procv, tabela di
 
 Para a elaboração da pauta, projeto final da disciplina, foi solicitada à Agência Nacional de Mineração um pedido de LAI com os fósseis brasileiros expatriados para outros países.
 
-Para contato, acionar por e-mail: elsa.villon@gmail.com
+Contato: elsa.villon@gmail.com
